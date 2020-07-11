@@ -1,0 +1,92 @@
+.navbar{
+margin-bottom: 40px;
+}
+
+.sobre{
+    border-color:#f5f5f5;
+    border-width: 2px;
+    border-style: solid;
+    
+}
+.sobre h3{
+    margin: 10px ;
+}
+.sobre p{
+    margin: 10px ;
+}
+.sobre hr{
+    margin: auto;
+}
+
+
+.experiencia {
+    border-color:#f5f5f5;
+    border-width: 2px;
+    border-style: solid;
+    margin-top: 10px;
+}
+.experiencia h3{
+    margin: 10px auto 10px 10px;
+}
+
+.experiencia hr{
+    margin: auto;
+}
+
+.experiencia p{
+    margin: 10px ;
+}
+
+.experiencia .image{
+    margin: 20px 20px 20px 20px;
+    
+}
+
+.formacao {
+    border-color:#f5f5f5;
+    border-width: 2px;
+    border-style: solid;
+    margin-top: 10px;
+}
+
+.formacao h3 {
+     margin: 10px auto 10px 10px;
+}
+
+.formacao p{
+    margin: 10px auto 10px 10px;
+}
+
+.formacao hr{
+    margin: auto;
+}
+
+.formcontato{
+    border-color:#f5f5f5;
+    border-width: 2px;
+    border-style: solid;
+
+}
+
+.formcontato h3{
+    margin: 10px auto 10px 15px;
+}
+.formcontato p{
+    margin: 10px auto 10px 15px;
+}
+.formcontato hr{
+    margin: auto;
+}
+
+.label {
+   margin: 10px 15px 10px 15px;
+}
+
+.control{
+    margin: 10px 15px 10px 15px;
+}
+
+.formcontato .field p {
+    margin: 10px 15px 10px 15px;
+}
+
